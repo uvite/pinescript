@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "pine",
+    "vm",
+    "nom_locate",
+    "study"
+
+
+]
